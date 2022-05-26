@@ -16,14 +16,15 @@ Type in:
 sudo su
 ```
 
-3. 
-Run the install.sh from terminal
+3. Run the install.sh from terminal
+
 ```
 chmod +x install.sh
 ./install.sh
 ```
 
 4. In your web browser navigate to :
+
 ```
 http://localhost:631/admin
 ```
